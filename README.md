@@ -23,7 +23,6 @@ Honorable mention goes to [peaksea](https://github.com/vim-scripts/peaksea) for 
 ## Modules used:
 - [ale](https://github.com/w0rp/ale)
 - [lightline](https://github.com/itchyny/lightline.vim)
-- [lightline-ale](https://github.com/maximbaz/lightline-ale)
 - [NERDtree](https://github.com/scrooloose/nerdtree)
 - [vim-go](https://github.com/fatih/vim-go)
 - [vim-surround](https://github.com/tpope/vim-surround)
