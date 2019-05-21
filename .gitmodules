@@ -10,9 +10,6 @@
 [submodule "start/lightline"]
 	path = start/lightline
 	url = https://github.com/itchyny/lightline.vim
-[submodule "start/ale"]
-	path = start/ale
-	url = https://github.com/w0rp/ale
 [submodule "start/vimwiki"]
 	path = start/vimwiki
 	url = https://github.com/vimwiki/vimwiki
